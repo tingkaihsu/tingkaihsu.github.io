@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ting-Kai Hsu</title>
+  <subtitle>Notes on research and reading in theoretical physics</subtitle>
+  <link href="https://tingkaihsu.github.io/atom.xml" rel="self"/>
+  <link href="https://tingkaihsu.github.io/"/>
+  <id>https://tingkaihsu.github.io/</id>
+  <updated>2025-12-11T16:00:00.000Z</updated>
+  <author>
+    <name>Ting-Kai Hsu</name>
+  </author>
+  <entry>
+    <title>Brief Introduction to Integrability and Thermodynamic Bethe Ansatz</title>
+    <link href="https://tingkaihsu.github.io/2025/12/12/integrable_systems/"/>
+    <id>https://tingkaihsu.github.io/2025/12/12/integrable_systems/</id>
+    <published>2025-12-11T16:00:00.000Z</published>
+    <updated>2025-12-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>We present an introduction to quantum integrability through the example of the 1D interacting Bose gas, known as the Lieb–Liniger model. Starting from the two-body scattering problem, we derive the exact S-matrix and illustrate how factorized scattering leads to the Yang–Baxter equation and an infinite set of conserved charges. These structures provide the microscopic origin of integrability in one dimension. We then introduce the thermodynamic Bethe ansatz (TBA) formalism and derive the integral equation governing the pseudo-energy. Finally, we solve the TBA equation numerically and analyze the resulting momentum and energy distributions at finite temperature. The numerical results demonstrate the qualitative effects of interactions and are consistent with physical expectations for 1D quantum systems.</p>]]></summary>
+    <content type="html"><![CDATA[<p>We present an introduction to quantum integrability through the example of the 1D interacting Bose gas, known as the Lieb–Liniger model. Starting from the two-body scattering problem, we derive the exact S-matrix and illustrate how factorized scattering leads to the Yang–Baxter equation and an infinite set of conserved charges. These structures provide the microscopic origin of integrability in one dimension. We then introduce the thermodynamic Bethe ansatz (TBA) formalism and derive the integral equation governing the pseudo-energy. Finally, we solve the TBA equation numerically and analyze the resulting momentum and energy distributions at finite temperature. The numerical results demonstrate the qualitative effects of interactions and are consistent with physical expectations for 1D quantum systems.</p>
+<p><a href="https://tingkaihsu.github.io/files/intro_TBA.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/intro_TBA.pdf" width="100%" height="600px"></iframe>
+
+]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="integrable-systems"/>
+  </entry>
+  <entry>
+    <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>]]></summary>
+    <content type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>
+<p><a href="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="astrophysics"/>
+    <category term="database"/>
+    <category term="internship"/>
+  </entry>
+  <entry>
+    <title>An Introduction to Black Hole Thermodynamics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
+    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
+<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="black holes"/>
+    <category term="thermodynamics"/>
+    <category term="course"/>
+  </entry>
+  <entry>
+    <title>Anisotropic Transmission of quantum information through quantum fields</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
+<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="quantum fundamental"/>
+    <category term="quantum information"/>
+  </entry>
+  <entry>
+    <title>Brief Introduction to Effective Theory of Binary Inspirals</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My EFT course report is a brief introduction to the effective theory of binary inspirals. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the setup, including the hierarchy, the power counting parameter, and the action. I categorized the modes of the gravitational field by their momenta, which is crucial for accurately calculating the effective action, including both the potential and the radiation. Next, I calculate the effective potential term for binary inspirals, emphasizing the use of Feynman diagrams and power counting. This approach allows us to reproduce the post-Newtonian potential terms, term by term, within this EFT formalism.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My EFT course report is a brief introduction to the effective theory of binary inspirals. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the setup, including the hierarchy, the power counting parameter, and the action. I categorized the modes of the gravitational field by their momenta, which is crucial for accurately calculating the effective action, including both the potential and the radiation. Next, I calculate the effective potential term for binary inspirals, emphasizing the use of Feynman diagrams and power counting. This approach allows us to reproduce the post-Newtonian potential terms, term by term, within this EFT formalism.</p>
+<p><a href="https://tingkaihsu.github.io/files/effective_theory_binary_inspirals.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/effective_theory_binary_inspirals.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="EFT"/>
+  </entry>
+  <entry>
+    <title>RPC Detector and Analysis of Cosmic Ray</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
+<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="internship"/>
+  </entry>
+  <entry>
+    <title>Brief Introduction to Conformal Bootstrap</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/qft2_conformal_bootstrap/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/qft2_conformal_bootstrap/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My QFT II course report is a brief introduction to the conformal bootstrap. The initial chapters introduce the fundamental concepts of conformal field theory. We introduce the conformal group using embedding formalism, which provides a clear perspective on quantization. Next, we derive the OPE associativity in Euclidean signature, which serves as a consistent condition in the conformal bootstrap for higher-point correlation functions. Finally, we present some helpful coordinates for the four-point correlator and outline the numerical conformal bootstrap algorithm used to determine the spectrum of consistent theories.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My QFT II course report is a brief introduction to the conformal bootstrap. The initial chapters introduce the fundamental concepts of conformal field theory. We introduce the conformal group using embedding formalism, which provides a clear perspective on quantization. Next, we derive the OPE associativity in Euclidean signature, which serves as a consistent condition in the conformal bootstrap for higher-point correlation functions. Finally, we present some helpful coordinates for the four-point correlator and outline the numerical conformal bootstrap algorithm used to determine the spectrum of consistent theories.</p>
+<p><a href="https://tingkaihsu.github.io/files/conformal_bootstrap_review.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/conformal_bootstrap_review.pdf" width="100%" height="600px"></iframe>
+
+]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="bootstrap"/>
+  </entry>
+</feed>
