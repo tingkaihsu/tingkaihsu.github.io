@@ -72,6 +72,20 @@
     <category term="thermodynamics"/>
   </entry>
   <entry>
+    <title>RPC Detector and Analysis of Cosmic Ray</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
+<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="internship"/>
+  </entry>
+  <entry>
     <title>Brief Introduction to Effective Theory of Binary Inspirals</title>
     <link href="https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/"/>
     <id>https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/</id>
@@ -101,19 +115,5 @@
     <category term="projects"/>
     <category term="course"/>
     <category term="bootstrap"/>
-  </entry>
-  <entry>
-    <title>RPC Detector and Analysis of Cosmic Ray</title>
-    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
-    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
-    <published>2025-07-11T16:00:00.000Z</published>
-    <updated>2025-07-11T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
-<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
-]]></content>
-    <category term="projects"/>
-    <category term="internship"/>
   </entry>
 </feed>
