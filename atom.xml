@@ -42,21 +42,6 @@
     <category term="internship"/>
   </entry>
   <entry>
-    <title>An Introduction to Black Hole Thermodynamics</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
-    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
-<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
-    <category term="projects"/>
-    <category term="black holes"/>
-    <category term="thermodynamics"/>
-    <category term="course"/>
-  </entry>
-  <entry>
     <title>Anisotropic Transmission of quantum information through quantum fields</title>
     <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
     <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
@@ -67,9 +52,24 @@
 <p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
 <iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
     <category term="projects"/>
-    <category term="course"/>
     <category term="quantum fundamental"/>
     <category term="quantum information"/>
+    <category term="course"/>
+  </entry>
+  <entry>
+    <title>An Introduction to Black Hole Thermodynamics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
+    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
+<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="black holes"/>
+    <category term="thermodynamics"/>
   </entry>
   <entry>
     <title>Brief Introduction to Effective Theory of Binary Inspirals</title>
@@ -87,20 +87,6 @@
     <category term="EFT"/>
   </entry>
   <entry>
-    <title>RPC Detector and Analysis of Cosmic Ray</title>
-    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
-    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
-    <published>2025-07-11T16:00:00.000Z</published>
-    <updated>2025-07-11T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
-<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
-]]></content>
-    <category term="projects"/>
-    <category term="internship"/>
-  </entry>
-  <entry>
     <title>Brief Introduction to Conformal Bootstrap</title>
     <link href="https://tingkaihsu.github.io/2025/07/12/qft2_conformal_bootstrap/"/>
     <id>https://tingkaihsu.github.io/2025/07/12/qft2_conformal_bootstrap/</id>
@@ -115,5 +101,19 @@
     <category term="projects"/>
     <category term="course"/>
     <category term="bootstrap"/>
+  </entry>
+  <entry>
+    <title>RPC Detector and Analysis of Cosmic Ray</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
+<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="internship"/>
   </entry>
 </feed>
