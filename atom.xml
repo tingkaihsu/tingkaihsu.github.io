@@ -10,12 +10,16 @@
     <name>Ting-Kai Hsu</name>
   </author>
   <entry>
-    <title>Untitled</title>
+    <title>Research Directions (Very Rough)</title>
     <link href="https://tingkaihsu.github.io/2026/10/08/research_direction/"/>
     <id>https://tingkaihsu.github.io/2026/10/08/research_direction/</id>
     <published>2026-10-08T13:23:51.859Z</published>
     <updated>2026-10-08T13:23:51.859Z</updated>
-    <content type="html"><![CDATA[]]></content>
+    <summary type="html"><![CDATA[<p>在這篇文章中我列出一些我感興趣的研究主題，當然部分是我根本還沒深入了解的，所以會常常更新。</p>]]></summary>
+    <content type="html"><![CDATA[<p>在這篇文章中我列出一些我感興趣的研究主題，當然部分是我根本還沒深入了解的，所以會常常更新。</p>
+<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+    <category term="research"/>
+    <category term="research"/>
   </entry>
   <entry>
     <title>Comments on Paper Writing ahd Research</title>
@@ -28,15 +32,15 @@
 <h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>首先，沒有一個人在做第一個研究時就已經是一個成熟的學者了，一切關於研究的方法、態度甚至是研究本身都是邊做邊學。在這篇文章中我強調：<strong>研究本身牽涉到輸入以及輸出，其中輸出要大於輸入</strong>。我會慢慢解釋為甚麼會有這樣的想法，並同時反思自己在研究上的實際情況。我指的輸入，包含的大到參加研討會，讀論文，小到與研究生討論聊天，以及受到指導教授的指導等，特別是平常無特別意圖的討論可能會在<strong>獨自思考</strong>的時候派上用場。但是這些輸入要變成自己的成長，我認為還要最重要的能夠看見，也就是我特別想要強調的輸出。因此，我會在下面就每種我遇到的輸入特別寫出我希望能做到的輸出：</p>
 <h2 id="Reading-Papers"><a href="#Reading-Papers" class="headerlink" title="Reading Papers"></a>Reading Papers</h2><p>讀論文是做研究的最基本，但是也是最容易產生<em>自己已經學會</em>的錯覺。在現在的學術界中，因為有arXiv，一天之中一個領域的preprint可能就有幾十篇。所以常常會聽到教授、研究生每天會做的第一件事是打開arXiv然後一個一個瀏覽。從我個人的經驗來看，教授之所以會這麼做是因為他們<strong>已經是個成熟的學者</strong>，有良好的品味以及嗅覺可以分辨出好的preprint以及不好的。但是年輕的研究生(或是像我一樣的大學部菜鳥)不是這樣，如同我指導教授說的，沒有經驗：對於自己的身分還是處在<strong>學生</strong>，而不是學者。</p>
 <p>這兩者的差異很大(特別是在我受的教育訓練下)，學生對於問題抱持的思考態度是<strong>有解答可以遵循，可以套用上課學到的公式，這個世界上一定有人知道</strong>，如此態度導致的後果就是寫出來的詳解常常不是屬於自己的分析，而是課本教會的。並且解題態度非常消極，正如Feynman自己說過的，他在研究問題時會心理暗示自己一定會得到<strong>別人想不到的精妙解法</strong>。儘管他承認有時候並不會有很特別的結果，但是我認為這會刺激人的思考，並且非常有用。而我必須承認的是，<strong>我自己還沒有做到這點</strong>。</p>
-<p>從另一個角度來說，一切始於經驗以及態度。論文還是得讀，但是必須從每一天的arXiv中大海撈針挑出幾篇嗎？我認為至少一開始不用。雖然我自詡稱，對scattering amplitude以及effective field theory有基礎的了解，現代每一篇有關的論文可能充斥著各式各樣的工具以及概念，很多是我不會的或是不熟的(例如：string theory, AdS&#x2F;CFT duality, Supersymmetric Yang-Mills theory…)。所以我很常遇到在讀最新的論文時，只看得懂隻言片語。</p>
+<p>從另一個角度來說，一切始於經驗以及態度。論文還是得讀，但是必須從每一天的arXiv中大海撈針挑出幾篇嗎？我認為至少一開始不用。雖然我自詡稱，對scattering amplitude以及effective field theory有基礎的了解，現代每一篇有關的論文可能充斥著各式各樣的工具以及概念，很多是我不會的或是不熟的(例如：string theory, AdS&#x2F;CFT duality, Supersymmetric Yang-Mills theory…)。所以我很常遇到在讀最新的論文時，只看得懂隻言片語。**這樣根本學習不到甚麼。*<em>因此，我認為</em>做中學*是從一篇篇比較基礎的論文(例如：原始概念的論文或是一些lecture notes)中獲得知識以及背景，從而去發展出研究主題。而不是廣泛的閱讀最新的發展。另外，有指導教授的提攜也是很重要的，他可以提供你一些他認為適合你的論文。這些論文一定是教授讀過的，所以呢，當你遇到不會的地方就可以問他。當然，我和教授合作的經驗告訴我，不必真的知道論文的每一章節你也可以學會甚麼知識。這就很像詹雨安在<a href="https://scyablog.blogspot.com/2016/04/blog-post_20.html">他的網站</a>上提到的學習方法，讀一本厚重的教科書絕對不要從第一章開始(除非你是新手)，先從目錄中找出自己感興趣或是想要學會的內容，然後再遇到不懂的概念是在往前搜索。這是我認為一個非常重要的技能。也是我認為為甚麼新手不該這麼做的原因，</p>
 ]]></content>
     <category term="research"/>
     <category term="writing"/>
   </entry>
   <entry>
-    <title>Gauge Theory by David Tong</title>
-    <link href="https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/"/>
-    <id>https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/</id>
+    <title>AdS/CFT Lecture Notes from Bottom Up</title>
+    <link href="https://tingkaihsu.github.io/2026/10/04/reading_AdS_CFT/"/>
+    <id>https://tingkaihsu.github.io/2026/10/04/reading_AdS_CFT/</id>
     <published>2026-10-03T16:00:00.000Z</published>
     <updated>2026-10-03T16:00:00.000Z</updated>
     <content type="html"><![CDATA[]]></content>
@@ -44,9 +48,9 @@
     <category term="reading"/>
   </entry>
   <entry>
-    <title>AdS/CFT Lecture Notes from Bottom Up</title>
-    <link href="https://tingkaihsu.github.io/2026/10/04/reading_AdS_CFT/"/>
-    <id>https://tingkaihsu.github.io/2026/10/04/reading_AdS_CFT/</id>
+    <title>Gauge Theory by David Tong</title>
+    <link href="https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/"/>
+    <id>https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/</id>
     <published>2026-10-03T16:00:00.000Z</published>
     <updated>2026-10-03T16:00:00.000Z</updated>
     <content type="html"><![CDATA[]]></content>
@@ -70,22 +74,6 @@
     <category term="integrable-systems"/>
   </entry>
   <entry>
-    <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>]]></summary>
-    <content type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>
-<p><a href="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf" width="100%" height="600px"></iframe>
-]]></content>
-    <category term="projects"/>
-    <category term="astrophysics"/>
-    <category term="database"/>
-    <category term="internship"/>
-  </entry>
-  <entry>
     <title>Anisotropic Transmission of quantum information through quantum fields</title>
     <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
     <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
@@ -99,6 +87,22 @@
     <category term="quantum fundamental"/>
     <category term="quantum information"/>
     <category term="course"/>
+  </entry>
+  <entry>
+    <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>]]></summary>
+    <content type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>
+<p><a href="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="internship"/>
+    <category term="astrophysics"/>
+    <category term="database"/>
   </entry>
   <entry>
     <title>An Introduction to Black Hole Thermodynamics</title>
