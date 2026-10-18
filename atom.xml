@@ -89,21 +89,6 @@
     <category term="integrable-systems"/>
   </entry>
   <entry>
-    <title>An Introduction to Black Hole Thermodynamics</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
-    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
-<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
-    <category term="projects"/>
-    <category term="black holes"/>
-    <category term="thermodynamics"/>
-    <category term="course"/>
-  </entry>
-  <entry>
     <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
     <link href="https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/"/>
     <id>https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/</id>
@@ -115,9 +100,9 @@
 <iframe src="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf" width="100%" height="600px"></iframe>
 ]]></content>
     <category term="projects"/>
-    <category term="internship"/>
     <category term="astrophysics"/>
     <category term="database"/>
+    <category term="internship"/>
   </entry>
   <entry>
     <title>Anisotropic Transmission of quantum information through quantum fields</title>
@@ -130,9 +115,24 @@
 <p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
 <iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
     <category term="projects"/>
-    <category term="course"/>
     <category term="quantum fundamental"/>
     <category term="quantum information"/>
+    <category term="course"/>
+  </entry>
+  <entry>
+    <title>An Introduction to Black Hole Thermodynamics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
+    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
+<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="black holes"/>
+    <category term="thermodynamics"/>
   </entry>
   <entry>
     <title>RPC Detector and Analysis of Cosmic Ray</title>
