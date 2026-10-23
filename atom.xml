@@ -5,10 +5,24 @@
   <link href="https://tingkaihsu.github.io/atom.xml" rel="self"/>
   <link href="https://tingkaihsu.github.io/"/>
   <id>https://tingkaihsu.github.io/</id>
-  <updated>2026-10-08T13:23:51.859Z</updated>
+  <updated>2026-10-08T13:24:07.362Z</updated>
   <author>
     <name>Ting-Kai Hsu</name>
   </author>
+  <entry>
+    <title>AdS/CFT Lecture Notes from Bottom Up</title>
+    <link href="https://tingkaihsu.github.io/2026/10/08/reading_AdS_CFT/"/>
+    <id>https://tingkaihsu.github.io/2026/10/08/reading_AdS_CFT/</id>
+    <published>2026-10-08T13:24:07.362Z</published>
+    <updated>2026-10-08T13:24:07.362Z</updated>
+    <summary type="html"><![CDATA[<p>這一篇是我讀J.Kapland寫的上課講義的一些想法。我目前對於quantum gravity並沒有很好的理解，主要來自於片面的資訊：quantum gravity的effective field theory，本來field-theory approach因為renormalization的問題而不受重視，但是近年來由於其對gravitational waves的近似描述而在這個領域又再次受到重視，我自己認為這是比較偏向pheno的方向；。我自己認為最核心的理解一定是來自於對於黑洞的量子描述。</p>]]></summary>
+    <content type="html"><![CDATA[<p>這一篇是我讀J.Kapland寫的上課講義的一些想法。我目前對於quantum gravity並沒有很好的理解，主要來自於片面的資訊：quantum gravity的effective field theory，本來field-theory approach因為renormalization的問題而不受重視，但是近年來由於其對gravitational waves的近似描述而在這個領域又再次受到重視，我自己認為這是比較偏向pheno的方向；。我自己認為最核心的理解一定是來自於對於黑洞的量子描述。</p>
+<h1 id="AdS-Spacetime-Symmetries"><a href="#AdS-Spacetime-Symmetries" class="headerlink" title="AdS Spacetime Symmetries"></a>AdS Spacetime Symmetries</h1><p>測試latex功能<br>$1 + 1 = 2$</p>
+]]></content>
+    <category term="research"/>
+    <category term="reading"/>
+    <category term="quantum gravity"/>
+  </entry>
   <entry>
     <title>Research Directions (Very Rough)</title>
     <link href="https://tingkaihsu.github.io/2026/10/08/research_direction/"/>
@@ -18,25 +32,22 @@
     <summary type="html"><![CDATA[<p>在這篇文章中我列出一些我感興趣的研究主題，當然部分是我根本還沒深入了解的，所以會常常更新。</p>]]></summary>
     <content type="html"><![CDATA[<p>在這篇文章中我列出一些我感興趣的研究主題，當然部分是我根本還沒深入了解的，所以會常常更新。</p>
 <ol>
-<li><p>Numerical S-matrix Bootstrap:</p>
-</li>
-<li><p>Mixed, gapped system <a href="http://arxiv.org/abs/2609.09282">http://arxiv.org/abs/2609.09282</a></p>
-</li>
-<li><p>Quantum mechanical system <a href="http://arxiv.org/abs/2209.14332">http://arxiv.org/abs/2209.14332</a></p>
-</li>
-<li><p>Complex angular-momentum theory?</p>
-</li>
-<li><p>Crossing symmetric dispersion relation <a href="https://arxiv.org/abs/2012.04877">https://arxiv.org/abs/2012.04877</a> <a href="https://arxiv.org/abs/2506.09884">https://arxiv.org/abs/2506.09884</a></p>
-</li>
-<li><p>Primal Bootstrap Approach</p>
-</li>
-<li><p>Numerical Conformal Bootstrap</p>
-</li>
+<li>Numerical S-matrix Bootstrap:</li>
+</ol>
+<ul>
+<li>Mixed, gapped system <a href="http://arxiv.org/abs/2609.09282">http://arxiv.org/abs/2609.09282</a></li>
+<li>Quantum mechanical system <a href="http://arxiv.org/abs/2209.14332">http://arxiv.org/abs/2209.14332</a></li>
+<li>Complex angular-momentum theory?</li>
+<li>Crossing symmetric dispersion relation applications<br>  <a href="https://arxiv.org/abs/2012.04877">https://arxiv.org/abs/2012.04877</a> <a href="https://arxiv.org/abs/2506.09884">https://arxiv.org/abs/2506.09884</a></li>
+<li>Primal Bootstrap Approach</li>
+<li>Numerical Conformal Bootstrap</li>
+</ul>
+<ol start="2">
 <li><p>AdS&#x2F;CFT Duality</p>
 </li>
 <li><p>Chaos in Scattering of QFTs <a href="https://arxiv.org/abs/2003.07381">https://arxiv.org/abs/2003.07381</a></p>
 </li>
-<li><p>EFT hedron <a href=""></a></p>
+<li><p>EFT hedron <a href="https://arxiv.org/abs/2012.15849">https://arxiv.org/abs/2012.15849</a></p>
 </li>
 <li></li>
 </ol>
@@ -68,16 +79,6 @@
     <category term="writing"/>
   </entry>
   <entry>
-    <title>AdS/CFT Lecture Notes from Bottom Up</title>
-    <link href="https://tingkaihsu.github.io/2026/10/04/reading_AdS_CFT/"/>
-    <id>https://tingkaihsu.github.io/2026/10/04/reading_AdS_CFT/</id>
-    <published>2026-10-03T16:00:00.000Z</published>
-    <updated>2026-10-03T16:00:00.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
-    <category term="research"/>
-    <category term="reading"/>
-  </entry>
-  <entry>
     <title>Gauge Theory by David Tong</title>
     <link href="https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/"/>
     <id>https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/</id>
@@ -100,8 +101,8 @@
 
 ]]></content>
     <category term="projects"/>
-    <category term="course"/>
     <category term="integrable-systems"/>
+    <category term="course"/>
   </entry>
   <entry>
     <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
@@ -120,21 +121,6 @@
     <category term="internship"/>
   </entry>
   <entry>
-    <title>Anisotropic Transmission of quantum information through quantum fields</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
-<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
-    <category term="projects"/>
-    <category term="quantum fundamental"/>
-    <category term="quantum information"/>
-    <category term="course"/>
-  </entry>
-  <entry>
     <title>An Introduction to Black Hole Thermodynamics</title>
     <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
     <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
@@ -148,6 +134,21 @@
     <category term="course"/>
     <category term="black holes"/>
     <category term="thermodynamics"/>
+  </entry>
+  <entry>
+    <title>Anisotropic Transmission of quantum information through quantum fields</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
+<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="quantum fundamental"/>
+    <category term="quantum information"/>
   </entry>
   <entry>
     <title>Brief Introduction to Effective Theory of Binary Inspirals</title>
@@ -165,20 +166,6 @@
     <category term="EFT"/>
   </entry>
   <entry>
-    <title>RPC Detector and Analysis of Cosmic Ray</title>
-    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
-    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
-    <published>2025-07-11T16:00:00.000Z</published>
-    <updated>2025-07-11T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
-<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
-]]></content>
-    <category term="projects"/>
-    <category term="internship"/>
-  </entry>
-  <entry>
     <title>Brief Introduction to Conformal Bootstrap</title>
     <link href="https://tingkaihsu.github.io/2025/07/12/qft2_conformal_bootstrap/"/>
     <id>https://tingkaihsu.github.io/2025/07/12/qft2_conformal_bootstrap/</id>
@@ -193,5 +180,19 @@
     <category term="projects"/>
     <category term="course"/>
     <category term="bootstrap"/>
+  </entry>
+  <entry>
+    <title>RPC Detector and Analysis of Cosmic Ray</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
+<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="internship"/>
   </entry>
 </feed>
