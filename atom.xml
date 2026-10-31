@@ -27,8 +27,8 @@
     <id>https://tingkaihsu.github.io/2026/10/08/reading_AdS_CFT/</id>
     <published>2026-10-08T13:24:07.362Z</published>
     <updated>2026-10-08T13:24:07.362Z</updated>
-    <summary type="html"><![CDATA[<p>這一篇是我讀J.Kapland寫的上課講義的一些想法。我目前對於quantum gravity並沒有很好的理解，主要來自於片面的資訊：quantum gravity的effective field theory，本來field-theory approach因為renormalization的問題而不受重視，但是近年來由於其對gravitational waves的近似描述而在這個領域又再次受到重視，我自己認為這是比較偏向pheno的方向；。我自己認為最核心的理解一定是來自於對於黑洞的量子描述。</p>]]></summary>
-    <content type="html"><![CDATA[<p>這一篇是我讀J.Kapland寫的上課講義的一些想法。我目前對於quantum gravity並沒有很好的理解，主要來自於片面的資訊：quantum gravity的effective field theory，本來field-theory approach因為renormalization的問題而不受重視，但是近年來由於其對gravitational waves的近似描述而在這個領域又再次受到重視，我自己認為這是比較偏向pheno的方向；。我自己認為最核心的理解一定是來自於對於黑洞的量子描述。</p>
+    <summary type="html"><![CDATA[<p>These are some thoughts from reading the lecture notes written by J. Kaplan. I currently don’t have a good understanding of quantum gravity, and what I know comes mainly from fragmentary information: (the effective field theory of quantum gravity)[<a href="https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/]">https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/]</a>. The field-theory approach had originally been neglected because of the renormalization problem, but in recent years it has received renewed attention in this field because of its usefulness in approximately describing gravitational waves. I personally think this direction leans more toward phenomenology. I also believe that the most central understanding must come from a quantum description of black holes.</p>]]></summary>
+    <content type="html"><![CDATA[<p>These are some thoughts from reading the lecture notes written by J. Kaplan. I currently don’t have a good understanding of quantum gravity, and what I know comes mainly from fragmentary information: (the effective field theory of quantum gravity)[<a href="https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/]">https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/]</a>. The field-theory approach had originally been neglected because of the renormalization problem, but in recent years it has received renewed attention in this field because of its usefulness in approximately describing gravitational waves. I personally think this direction leans more toward phenomenology. I also believe that the most central understanding must come from a quantum description of black holes.</p>
 <h1 id="AdS-Spacetime-Symmetries"><a href="#AdS-Spacetime-Symmetries" class="headerlink" title="AdS Spacetime Symmetries"></a>AdS Spacetime Symmetries</h1>]]></content>
     <category term="research"/>
     <category term="reading"/>
@@ -103,7 +103,9 @@
     <id>https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/</id>
     <published>2026-10-03T16:00:00.000Z</published>
     <updated>2026-10-03T16:00:00.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
+    <summary type="html"><![CDATA[<p>會讀gauge theory主要是它在物理現象學、高能理論物理、凝態理論物理</p>]]></summary>
+    <content type="html"><![CDATA[<p>會讀gauge theory主要是它在物理現象學、高能理論物理、凝態理論物理</p>
+]]></content>
     <category term="research"/>
     <category term="reading"/>
   </entry>
@@ -122,6 +124,22 @@
     <category term="projects"/>
     <category term="course"/>
     <category term="integrable-systems"/>
+  </entry>
+  <entry>
+    <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>]]></summary>
+    <content type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>
+<p><a href="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="astrophysics"/>
+    <category term="database"/>
+    <category term="internship"/>
   </entry>
   <entry>
     <title>Anisotropic Transmission of quantum information through quantum fields</title>
@@ -154,19 +172,17 @@
     <category term="thermodynamics"/>
   </entry>
   <entry>
-    <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>]]></summary>
-    <content type="html"><![CDATA[<p>We construct a database for all available isotopes’ Maxwellian-Averaged Cross-Sections (MACS) measured at the CERN n_TOF facility. In addition to the experimental data, the database contains theoretical values calculated by the TALYS-2.0 program, as well as evaluated values from other libraries, for reference. Quantities such as Q-value, reaction rate, and stellar enhancement factor (SEF) are included for completeness. Our programming enables quick updates and modifications to data, with the entire process automated.  It requires minimal input and provides a high degree of freedom to add comments or change the plotting style. The database contains complete information ready for theoretical simulation of nuclear-astrophysical processes, and MACS measurements at the CERN n_TOF facility are, to our knowledge, the newest and of high resolution.</p>
-<p><a href="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/CERN_summer_student_report.pdf" width="100%" height="600px"></iframe>
+    <title>RPC Detector and Analysis of Cosmic Ray</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
+<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
 ]]></content>
     <category term="projects"/>
-    <category term="astrophysics"/>
-    <category term="database"/>
     <category term="internship"/>
   </entry>
   <entry>
@@ -183,20 +199,6 @@
     <category term="projects"/>
     <category term="course"/>
     <category term="EFT"/>
-  </entry>
-  <entry>
-    <title>RPC Detector and Analysis of Cosmic Ray</title>
-    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
-    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
-    <published>2025-07-11T16:00:00.000Z</published>
-    <updated>2025-07-11T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
-<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
-]]></content>
-    <category term="projects"/>
-    <category term="internship"/>
   </entry>
   <entry>
     <title>Brief Introduction to Conformal Bootstrap</title>
