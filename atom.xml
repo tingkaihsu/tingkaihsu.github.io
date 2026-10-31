@@ -5,10 +5,22 @@
   <link href="https://tingkaihsu.github.io/atom.xml" rel="self"/>
   <link href="https://tingkaihsu.github.io/"/>
   <id>https://tingkaihsu.github.io/</id>
-  <updated>2026-10-08T13:24:07.362Z</updated>
+  <updated>2026-10-23T05:12:19.164Z</updated>
   <author>
     <name>Ting-Kai Hsu</name>
   </author>
+  <entry>
+    <title>Research Notes on Mixed-state Bootstrap</title>
+    <link href="https://tingkaihsu.github.io/2026/10/23/mixed_state_bootstrap/"/>
+    <id>https://tingkaihsu.github.io/2026/10/23/mixed_state_bootstrap/</id>
+    <published>2026-10-23T05:12:19.164Z</published>
+    <updated>2026-10-23T05:12:19.164Z</updated>
+    <summary type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。而下一步就是尋找物理意義，或是去<strong>重新發現</strong>物理模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>]]></summary>
+    <content type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。而下一步就是尋找物理意義，或是去<strong>重新發現</strong>物理模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>
+]]></content>
+    <category term="research"/>
+    <category term="notes"/>
+  </entry>
   <entry>
     <title>AdS/CFT Lecture Notes from Bottom Up</title>
     <link href="https://tingkaihsu.github.io/2026/10/08/reading_AdS_CFT/"/>
@@ -17,8 +29,7 @@
     <updated>2026-10-08T13:24:07.362Z</updated>
     <summary type="html"><![CDATA[<p>這一篇是我讀J.Kapland寫的上課講義的一些想法。我目前對於quantum gravity並沒有很好的理解，主要來自於片面的資訊：quantum gravity的effective field theory，本來field-theory approach因為renormalization的問題而不受重視，但是近年來由於其對gravitational waves的近似描述而在這個領域又再次受到重視，我自己認為這是比較偏向pheno的方向；。我自己認為最核心的理解一定是來自於對於黑洞的量子描述。</p>]]></summary>
     <content type="html"><![CDATA[<p>這一篇是我讀J.Kapland寫的上課講義的一些想法。我目前對於quantum gravity並沒有很好的理解，主要來自於片面的資訊：quantum gravity的effective field theory，本來field-theory approach因為renormalization的問題而不受重視，但是近年來由於其對gravitational waves的近似描述而在這個領域又再次受到重視，我自己認為這是比較偏向pheno的方向；。我自己認為最核心的理解一定是來自於對於黑洞的量子描述。</p>
-<h1 id="AdS-Spacetime-Symmetries"><a href="#AdS-Spacetime-Symmetries" class="headerlink" title="AdS Spacetime Symmetries"></a>AdS Spacetime Symmetries</h1><p>測試latex功能<br>$1 + 1 = 2$</p>
-]]></content>
+<h1 id="AdS-Spacetime-Symmetries"><a href="#AdS-Spacetime-Symmetries" class="headerlink" title="AdS Spacetime Symmetries"></a>AdS Spacetime Symmetries</h1>]]></content>
     <category term="research"/>
     <category term="reading"/>
     <category term="quantum gravity"/>
@@ -36,21 +47,29 @@
 </ol>
 <ul>
 <li>Mixed, gapped system <a href="http://arxiv.org/abs/2609.09282">http://arxiv.org/abs/2609.09282</a></li>
+<li>Mixed, gapped system with gravity?</li>
 <li>Quantum mechanical system <a href="http://arxiv.org/abs/2209.14332">http://arxiv.org/abs/2209.14332</a></li>
 <li>Complex angular-momentum theory?</li>
-<li>Crossing symmetric dispersion relation applications<br>  <a href="https://arxiv.org/abs/2012.04877">https://arxiv.org/abs/2012.04877</a> <a href="https://arxiv.org/abs/2506.09884">https://arxiv.org/abs/2506.09884</a></li>
+<li>Crossing symmetric dispersion relation applications and Feynman Blocks<br>  <a href="https://arxiv.org/abs/2012.04877">https://arxiv.org/abs/2012.04877</a> <a href="https://arxiv.org/abs/2506.09884">https://arxiv.org/abs/2506.09884</a></li>
 <li>Primal Bootstrap Approach</li>
 <li>Numerical Conformal Bootstrap</li>
 </ul>
 <ol start="2">
-<li><p>AdS&#x2F;CFT Duality</p>
-</li>
+<li>AdS&#x2F;CFT Duality</li>
+</ol>
+<ul>
+<li>How the numerical conformal bootstrap is applied to S-matrix bootstrap by taking the flat-space limit of AdS&#x2F;CFT duality.</li>
+</ul>
+<ol start="3">
 <li><p>Chaos in Scattering of QFTs <a href="https://arxiv.org/abs/2003.07381">https://arxiv.org/abs/2003.07381</a></p>
 </li>
 <li><p>EFT hedron <a href="https://arxiv.org/abs/2012.15849">https://arxiv.org/abs/2012.15849</a></p>
 </li>
-<li></li>
 </ol>
+<ul>
+<li>at the end of <a href="https://arxiv.org/abs/2012.04877">https://arxiv.org/abs/2012.04877</a>, it is said that the connection between EFThedron and crossing-symmetric dispersion relation is an open direction.</li>
+</ul>
+<p>5. </p>
 ]]></content>
     <category term="research"/>
     <category term="research"/>
@@ -70,7 +89,7 @@
 <p>所以，身為一個新的研究生究竟該怎麼做呢？</p>
 <p>我認為最好的方法是<strong>多輸出，去檢驗你的想法是否正確</strong>。這正是為什麼我們需要一個地方性的研究社群可以不受限的討論更正彼此的看法。有很多種實際的做法並且彼此並不排斥:</p>
 <ol>
-<li><p>組讀書會：不管是系所、教授實驗室都可能會有自己的讀論文小組會。我們會選出自己想要研究的論文，並輪流在黑板上分享。其實，真正訓練到的是自己的表達能力以及對課題的熟悉程度，<strong>強迫自己成長成為合格的表達者</strong>。通常研究的主題會是集中在實驗室的研究目標上，但在我參加過McGill University Simon Caron-Huot的研究小組後發現其實非常的自由，同時會很考驗自己選擇論文的品味。重點是，我發現大家(慚愧地說，我目前只是旁聽生而已，還沒有上台報告的經驗)選擇的主題不一定是最新、最熱騰騰的論文，反而是幾年前的研究主題。這也是為什麼我說讀論文不必得是跟上潮流。</p>
+<li><p>組讀書會：不管是系所、教授實驗室都可能會有自己的讀論文小組會。我們會選出自己想要研究的論文，並輪流在黑板上分享。其實，真正訓練到的是自己的表達能力以及對課題的熟悉程度，<strong>強迫自己成長成為合格的表達者</strong>。通常研究的主題會是集中在實驗室的研究目標上，但在我參加過McGill University Simon Caron-Huot的研究小組後發現其實非常的自由，同時會很考驗自己選擇論文的品味。重點是，我發現大家(慚愧地說，我目前只是旁聽生而已，還沒有上台報告的經驗)選擇的主題不一定是最新、最熱騰騰的論文，反而是幾年前的研究主題。這也是為什麼我說讀論文不必得是跟上當下最新的內容。</p>
 </li>
 <li></li>
 </ol>
@@ -101,8 +120,38 @@
 
 ]]></content>
     <category term="projects"/>
-    <category term="integrable-systems"/>
     <category term="course"/>
+    <category term="integrable-systems"/>
+  </entry>
+  <entry>
+    <title>Anisotropic Transmission of quantum information through quantum fields</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
+<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="quantum fundamental"/>
+    <category term="quantum information"/>
+    <category term="course"/>
+  </entry>
+  <entry>
+    <title>An Introduction to Black Hole Thermodynamics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
+    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
+<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="course"/>
+    <category term="black holes"/>
+    <category term="thermodynamics"/>
   </entry>
   <entry>
     <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
@@ -121,36 +170,6 @@
     <category term="internship"/>
   </entry>
   <entry>
-    <title>An Introduction to Black Hole Thermodynamics</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
-    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
-<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
-    <category term="projects"/>
-    <category term="course"/>
-    <category term="black holes"/>
-    <category term="thermodynamics"/>
-  </entry>
-  <entry>
-    <title>Anisotropic Transmission of quantum information through quantum fields</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
-<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
-    <category term="projects"/>
-    <category term="course"/>
-    <category term="quantum fundamental"/>
-    <category term="quantum information"/>
-  </entry>
-  <entry>
     <title>Brief Introduction to Effective Theory of Binary Inspirals</title>
     <link href="https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/"/>
     <id>https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals/</id>
@@ -164,6 +183,20 @@
     <category term="projects"/>
     <category term="course"/>
     <category term="EFT"/>
+  </entry>
+  <entry>
+    <title>RPC Detector and Analysis of Cosmic Ray</title>
+    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
+    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
+    <published>2025-07-11T16:00:00.000Z</published>
+    <updated>2025-07-11T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
+<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
+]]></content>
+    <category term="projects"/>
+    <category term="internship"/>
   </entry>
   <entry>
     <title>Brief Introduction to Conformal Bootstrap</title>
@@ -180,19 +213,5 @@
     <category term="projects"/>
     <category term="course"/>
     <category term="bootstrap"/>
-  </entry>
-  <entry>
-    <title>RPC Detector and Analysis of Cosmic Ray</title>
-    <link href="https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/"/>
-    <id>https://tingkaihsu.github.io/2025/07/12/academia_sinica_cosmic_ray/</id>
-    <published>2025-07-11T16:00:00.000Z</published>
-    <updated>2025-07-11T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My summer internship at the Institute of Physics, Academia Sinica, in my 2023-2024 academic year. Mentored by Professor Wen-Chen Chang, I learned the design of detectors for different collision experiments and participated in the construction of a fixed-target cosmic-ray detector. Additionally, I developed a Python automation program for data acquisition and monitoring of cosmic rays, linking the computer to the RPC detector. We showed that the distribution of cosmic rays matches the Poisson distribution, and compared the efficiency of the RPC detector across different voltages.</p>
-<p><a href="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/rpc_detector_cosmic_ray_analysis.pdf" width="100%" height="600px"></iframe>
-]]></content>
-    <category term="projects"/>
-    <category term="internship"/>
   </entry>
 </feed>
