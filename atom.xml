@@ -5,18 +5,33 @@
   <link href="https://tingkaihsu.github.io/atom.xml" rel="self"/>
   <link href="https://tingkaihsu.github.io/"/>
   <id>https://tingkaihsu.github.io/</id>
-  <updated>2026-10-23T05:12:19.164Z</updated>
+  <updated>2026-11-04T10:18:00.192Z</updated>
   <author>
     <name>Ting-Kai Hsu</name>
   </author>
+  <entry>
+    <title>Research Notes on Anomalous Thresholds</title>
+    <link href="https://tingkaihsu.github.io/2026/11/04/anomalous_thresholds/"/>
+    <id>https://tingkaihsu.github.io/2026/11/04/anomalous_thresholds/</id>
+    <published>2026-11-04T10:18:00.192Z</published>
+    <updated>2026-11-04T10:18:00.192Z</updated>
+    <summary type="html"><![CDATA[<p>先略，有空補。</p>]]></summary>
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>先略，有空補。</p>
+<h1 id="Large-M-Expansion"><a href="#Large-M-Expansion" class="headerlink" title="Large-M Expansion"></a>Large-M Expansion</h1><p>重點在於：Plugging in the loop momentum solution $\ell(z) = \ell_{||} + \ell_{\perp}(z)$ does NOT enhance the M-power counting of the z-contour integral of the triple-cut integrand.</p>
+<p>首先：從triple-cut conditions中可以得到平行p1-p2平面的loop momentum分量，以及transverse part的大小$\ell_{\perp}^2$。(已完成)</p>
+<p>再來我們要去探討components的大小，我們選定C.O.M.座標其中$s = O(M^2)$和$t,s_2,s_3,m^2 = O(M^0)$並假設$p_1,p_2$在3-direction上反向，散射平面是along 1-3 direction。然後選定一個$Q,\bar Q$的向量基底，並提到loop momentum $\ell(z)$ is invariant under $Q\to \kappa Q, \bar Q\to \bar Q/\kappa, z\to \kappa z$。於是我們選擇$\kappa$使得 $|2p_3\cdot Q| = |2p_3\cdot \bar Q|$。</p>
+]]></content>
+    <category term="research"/>
+    <category term="notes"/>
+  </entry>
   <entry>
     <title>Research Notes on Mixed-state Bootstrap</title>
     <link href="https://tingkaihsu.github.io/2026/10/23/mixed_state_bootstrap/"/>
     <id>https://tingkaihsu.github.io/2026/10/23/mixed_state_bootstrap/</id>
     <published>2026-10-23T05:12:19.164Z</published>
     <updated>2026-10-23T05:12:19.164Z</updated>
-    <summary type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。而下一步就是尋找物理意義，或是去<strong>重新發現</strong>物理模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>]]></summary>
-    <content type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。而下一步就是尋找物理意義，或是去<strong>重新發現</strong>物理模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>
+    <summary type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。例如：從crossing symmetry(其實應該是對於identical scalar scattering來說permutation symmetry)推導出的null constraints可以得到的一個結論是如果UV spectrum允許spin-2的heavy state，那也必須包含其他high-spin states。而bootstrap program下一步就是尋找物理意義，或是從完整自洽的角度去<strong>重新發現</strong>最佳化的模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>]]></summary>
+    <content type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。例如：從crossing symmetry(其實應該是對於identical scalar scattering來說permutation symmetry)推導出的null constraints可以得到的一個結論是如果UV spectrum允許spin-2的heavy state，那也必須包含其他high-spin states。而bootstrap program下一步就是尋找物理意義，或是從完整自洽的角度去<strong>重新發現</strong>最佳化的模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>
 ]]></content>
     <category term="research"/>
     <category term="notes"/>
