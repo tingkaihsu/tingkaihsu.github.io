@@ -5,22 +5,101 @@
   <link href="https://tingkaihsu.github.io/atom.xml" rel="self"/>
   <link href="https://tingkaihsu.github.io/"/>
   <id>https://tingkaihsu.github.io/</id>
-  <updated>2026-11-04T10:18:00.192Z</updated>
+  <updated>2026-11-09T03:32:15.045Z</updated>
   <author>
     <name>Ting-Kai Hsu</name>
   </author>
   <entry>
-    <title>Research Notes on Anomalous Thresholds</title>
+    <title>退伍後的第一個禮拜紀錄</title>
+    <link href="https://tingkaihsu.github.io/2026/11/09/Nov_8/"/>
+    <id>https://tingkaihsu.github.io/2026/11/09/Nov_8/</id>
+    <published>2026-11-09T03:32:15.045Z</published>
+    <updated>2026-11-09T03:32:15.045Z</updated>
+    <summary type="html"><![CDATA[<p>這是第一周退伍後的紀錄，感覺我把日子過得有點鬆散。特別是現在還沒有研究生的自覺。</p>]]></summary>
+    <content type="html"><![CDATA[<p>這是第一周退伍後的紀錄，感覺我把日子過得有點鬆散。特別是現在還沒有研究生的自覺。</p>
+<p>先紀錄一下日常做了什麼吧。最近會去補習班輔導一些學生，大部分是高中生。因為他們要準備學測的關係，所以就讓他們不斷的練習題目，然後我幫助他們釐清正確的答案。對我來說，現在高中生的英文算是簡單的，但是自然(特別是有些簡單的題目只是在考定義的部分)因為我太久沒有碰生物、化學、跟地科了，所以講解起來比較吃力。有空我也開始練習開車，目前發現自己開車也沒有問題呢。至於煮飯，我要多加練習，不能只靠心血來潮才去煮。目前會做的菜色也很少，甚至沒有炒過菜，只有煎過牛排跟蛋。</p>
+<p>維持好習慣的部分，我目前有保持餐後刷牙的習慣。唯一要注意的是最近越來越晚睡了，我想大部分的原因是這本來就是我的生理時鐘吧，可能要多多注意要在十一點半左右就寢。這禮拜的最後也有整理環境，掃了廁所跟地板，希望下禮拜繼續保持。</p>
+<p>說到好習慣，就不得不提我最近的學習態度真的很有問題。目前有持續在推進的只有緩慢的研究進度，自己本身的知識沒有特別在增加。而且常常丟給AI。不是說不行，而是要更有效的去利用AI，同時我也希望可以培養研究紀錄的習慣，所以這部分還要再加強。</p>
+<p>關於學習新知識，我其實列了很多目標跟線上課程。但是我自己發現常常是在用平板跟手機偷懶。我目前還在想要怎麼提升自己去看那些線上影片的意願。例如，MIT網站上的Effective field theory跟PSI課程提供的理論物理影片、EPFL的lecture影片紀錄都是很好的資源但是我卻沒有利用。至於我自己列出來的AI執照的目標也沒有嘗試去達成(剛剛突然發現這在Coursa上要錢，感覺可惜了目前應該沒有急著用的念頭)。</p>
+<p>我覺得我可以先列出自己有興趣的課程 然後每周的時候追蹤一下進度。</p>
+<ol>
+<li><a href="https://pirsa.org/25110030">PSI lecture of QFT II</a></li>
+<li><a href="">PSI lecture of AdS&#x2F;CFT</a></li>
+<li></li>
+</ol>
+]]></content>
+    <category term="life"/>
+    <category term="life_recording"/>
+  </entry>
+  <entry>
+    <title>Research Notes on UV Anomalous Thresholds</title>
     <link href="https://tingkaihsu.github.io/2026/11/04/anomalous_thresholds/"/>
     <id>https://tingkaihsu.github.io/2026/11/04/anomalous_thresholds/</id>
-    <published>2026-11-04T10:18:00.192Z</published>
-    <updated>2026-11-04T10:18:00.192Z</updated>
+    <published>2026-11-04T10:18:00.000Z</published>
+    <updated>2026-11-04T10:18:00.000Z</updated>
     <summary type="html"><![CDATA[<p>先略，有空補。</p>]]></summary>
     <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>先略，有空補。</p>
 <h1 id="Large-M-Expansion"><a href="#Large-M-Expansion" class="headerlink" title="Large-M Expansion"></a>Large-M Expansion</h1><p>重點在於：Plugging in the loop momentum solution $\ell(z) = \ell_{||} + \ell_{\perp}(z)$ does NOT enhance the M-power counting of the z-contour integral of the triple-cut integrand.</p>
 <p>首先：從triple-cut conditions中可以得到平行p1-p2平面的loop momentum分量，以及transverse part的大小$\ell_{\perp}^2$。(已完成)</p>
-<p>再來我們要去探討components的大小，我們選定C.O.M.座標其中$s = O(M^2)$和$t,s_2,s_3,m^2 = O(M^0)$並假設$p_1,p_2$在3-direction上反向，散射平面是along 1-3 direction。然後選定一個$Q,\bar Q$的向量基底，並提到loop momentum $\ell(z)$ is invariant under $Q\to \kappa Q, \bar Q\to \bar Q/\kappa, z\to \kappa z$。於是我們選擇$\kappa$使得 $|2p_3\cdot Q| = |2p_3\cdot \bar Q|$。</p>
-]]></content>
+<p>再來我們要去探討components的大小，我們選定C.O.M.座標其中$s = O(M^2)$和$t,s_2,s_3,m^2 = O(M^0)$並假設$p_1,p_2$在3-direction上反向，散射平面是along 1-3 direction。然後選定一個$Q,\bar Q$的向量基底，並提到loop momentum $\ell(z)$ is invariant under $Q\to \kappa Q, \bar Q\to \bar Q/\kappa, z\to \kappa z$。於是我們選擇$\kappa$使得 $|2p_3\cdot Q| = |2p_3\cdot \bar Q|$。因此，單位圓會區隔開兩個z-plane上的有限解，所以我們選擇它作為contour。</p>
+<p>引進naive power counting for amplitudes：each UV three-point coupling is normalized by M，個別的mass dimension analysis。論述這個power counting其實是要對amplitudes product定義才是正確的：因為cut intermediate states carry complex momenta，所以wavefunctions存在$\rm{SL}(2,\mathbb{C})$的invariant以至於a single tree amplitude attached to cut spinning intermediate states (spinning states with complex momenta) is not bounded。但是當我們對切到的中間態自旋自由度求和時，這些rescaling factors會互相canceled。所以真正的問題在於：Whether plugging in the loop momentum solution $\ell(z)$ and evaluate the triple-cut integrand on the unit circle $|z| = 1$ enhance the M-power counting？結論是不會。首先the components of the transverse part are bounded by $|r| = O(M^0)$ on the unit circle。再來，the kinematic inputs to the IR three-point amplitude $\mathcal{A}_3(b) = \mathcal{A}_3(p_2, \ell_1, \ell_2)$:</p>
+<p>$$\ell_1^\mu = \beta p_2^\mu + \ell_\perp^\mu + O(M^{-2})\,,$$</p>
+<p>$$\ell_2^\mu = (1+\beta) p_1^\mu + \ell_\perp^\mu + O(M^{-2})\,.$$</p>
+<p>are collinear with the external momentum $p_2$ up to $O(M^0)$。The large-M factors in these momenta $\ell_1, \ell_2, p_2$ can be viewed as a boost and thus does not change the naive power counting of the IR amplitude， 而the UV three-point tree amplitude $\mathcal{A}_3(a)$ 本身就有large-M scales from the attached heavy states。對於the UV four-point amplitude $\mathcal{A}_4(d)$來說我們還要考慮possible tree-level exchange at $\ell_3^2 = m^2$會不會帶來additional M-power，答案是在unit circle上 propagator $\frac{1}{\ell^2_3(z)-m^2}$有一個finite bound，with leading term $O(M^0)$。</p>
+<p>所以我們有following inequality</p>
+<p>$$\left| \oint_{|z| = 1} \frac{dz}{2\pi i z}\rm{Cut}_{\triangleright}(z) \right| \le \max_{|z| = 1} \left| \rm{Cut}_{\triangleright}(z) \right| = O(M^2)$$</p>
+<h1 id="Professor-Advice"><a href="#Professor-Advice" class="headerlink" title="Professor Advice"></a>Professor Advice</h1><p>Professor does not like the choice of the contour at either $|z| = R$ or $|z| = 1$. His point of view is that the formula of double discontinuity$$ \rm{Disc}_s^2 A_4(s) = \rm{Disc}_s^2 I_{3}^{\triangleright} \oint \frac{dz}{2\pi i z} \rm{Cut}_\triangleright^{I_1I_4}(z) $$is a contour that catches the “correct” poles of box and triangle topologies. The circular contour is just a choice and therefore the large-M argument should not be proved by a particular choice of the contour. His suggestion is that the combination of the residues should commute with the large-$M$ expansion, i.e., like we found out in the $\ell\cdot \gamma$ expample, the unexpected large-$M$ terms cancel between two residues. He want to make the formula more precise and concrete on which box singularities should we choose to have the correct sign. Also, he think that add the U-channel pole in the four-point tree amplitude so that there are two box topologies and the simple circular contour might fails when there are many box singularities.</p>
+<ol>
+<li><p>Analyze how the $M$-dependence in the quadruple-cut solutions disappear in the combination of box and triangle residues, i.e., prove that the large-M expansion and taking the residues commute.</p>
+</li>
+<li><p>Analyze a more general case where there is another box singularties present in the z-plane.</p>
+</li>
+</ol>
+<h1 id="Anomalous-Threshold-in-Terms-of-Triple-Cut"><a href="#Anomalous-Threshold-in-Terms-of-Triple-Cut" class="headerlink" title="Anomalous Threshold in Terms of Triple Cut"></a>Anomalous Threshold in Terms of Triple Cut</h1><p>Scalar integral decomposistion:</p>
+<p>For a one-loop amplitude of the two-to-two scattering of unstable scalar and spin-$\frac12$ fermion, we labels the in-out states of the scalar $1$ and $4$ while the in-out states of the fermion are $2$ and $3$.$$A_4(s,t) = \sum_{\Box_i} d_{\Box_i} I_{\Box_i} + \sum_{\triangleright_i}d_{\triangleright_i} I_{\triangleright_i} + \sum_{\triangleleft_i}d_{\triangleleft_i}I_{\triangleleft_i} + \cdots$$where the ellipsis represents the other scalar integrals and the rational term.</p>
+<p>The topologies of the scalar integrals can be classified by the cuts.</p>
+<h2 id="Boxes"><a href="#Boxes" class="headerlink" title="Boxes"></a>Boxes</h2><p>We can have four types of box topologies</p>
+<ol>
+<li><p>$\Box_1 \equiv \{\ell, \ell+p_1, \ell+p_1+p_2, \ell+p_1+p_2-p_3\}$,</p>
+</li>
+<li><p>$\Box_2 \equiv \{\ell, \ell+p_1, \ell+p_1+p_2, \ell+p_1+p_2-p_4\}$,</p>
+</li>
+<li><p>$\Box_3 \equiv \{\ell, \ell+p_2, \ell+p_1+p_2, \ell+p_1+p_2-p_3\}$,</p>
+</li>
+<li><p>$\Box_4 \equiv \{\ell, \ell+p_2, \ell+p_1+p_2, \ell+p_1+p_2-p_4\}$.</p>
+</li>
+</ol>
+<h2 id="Triangles"><a href="#Triangles" class="headerlink" title="Triangles"></a>Triangles</h2><p>We can have four types of triangular topologies, each of them can correspond to two box topologies by including extra cut condition</p>
+<ol>
+<li><p>$\triangleright_1 \equiv \{\ell, \ell+p_1,\ell+p_1+p_2\}$ contains $\Box_1, \Box_2$,</p>
+</li>
+<li><p>$\triangleright_2 \equiv \{\ell, \ell+p_4, \ell+p_3+p_4\}$ contains $\Box_1, \Box_3$,</p>
+</li>
+<li><p>$\triangleleft_1 \equiv \{\ell,\ell+p_2,\ell+p_1+p_2\}$ contains $\Box_3, \Box_4$,</p>
+</li>
+<li><p>$\triangleleft_2 \equiv \{\ell, \ell+p_3, \ell+p_3+p_4\}$ contains $\Box_2, \Box_4$.</p>
+</li>
+</ol>
+<p>其中$\triangleright_1$可以透過下列的變換得到其他的topologies</p>
+<p>$$
+  \triangleright_1 \to \triangleright_2: p_1 \to p_4,\quad p_2\to p_3\,,\\
+  \triangleright_1 \to \triangleleft_1: p_1 \to p_2,\quad p_2 \to p_1\,,\\
+  \triangleright_1 \to \triangleleft_2: p_1 \to p_3,\quad p_2 \to p_4.
+$$In the following, we focus on the $\triangleright_1$ topology and the boxes $\Box_1$ and $\Box_2$ which it contains.</p>
+<h2 id="Double-Discontinuities-of-Scalar-Integrals"><a href="#Double-Discontinuities-of-Scalar-Integrals" class="headerlink" title="Double Discontinuities of Scalar Integrals"></a>Double Discontinuities of Scalar Integrals</h2><p>For the kinematics $t\to 0, s_2 = s_3^* = M_R^2-i \Gamma M_R$ and $s \in [s_{\triangleright}^+(s_2), s_{\triangleright}^-(s_2)]$, the double discontinuities of the scalar triangle</p>
+<p>$$
+  \rm{Disc}_s^2 I_{\triangleright_1} = \frac{(2\pi i)^2}{\sqrt{s-(m-\sqrt{s_2})^2}\sqrt{s-(m+\sqrt{s_2})^2}}\,,
+$$</p>
+<p>where the branch cut at $s\in [(m-\sqrt{s_2})^2, (m+\sqrt{s_2})^2]$.</p>
+<p>The double discontinuity of the scalar boxes</p>
+<p>$$
+  \rm{Disc}_s^2 I_{\Box_1} = \frac{(2\pi i)^2}{\sqrt{M^2(M^2-4m^2)}}\frac{1}{2i\Gamma M_R}\,,
+$$</p>
+<p>and </p>
+<p>$$
+  \rm{Disc}_s^2 I_{\Box_2} = \frac{(2\pi i)^2}{\sqrt{(s-s^{1}_{\Box_2})(s-s^{2}_{\Box_2})}\sqrt{(s-s^{3}_{\Box_2})(s-s^{4}_{\Box_2})}}\,,
+$$where $s^{i}_{\Box_2}$ are the solutions of $S_{\Box_2} = 0$. More precisely, </p>
+<h2 id="Triple-Cut-Conditions"><a href="#Triple-Cut-Conditions" class="headerlink" title="Triple Cut Conditions"></a>Triple Cut Conditions</h2>]]></content>
     <category term="research"/>
     <category term="notes"/>
   </entry>
@@ -28,11 +107,11 @@
     <title>Research Notes on Mixed-state Bootstrap</title>
     <link href="https://tingkaihsu.github.io/2026/10/23/mixed_state_bootstrap/"/>
     <id>https://tingkaihsu.github.io/2026/10/23/mixed_state_bootstrap/</id>
-    <published>2026-10-23T05:12:19.164Z</published>
-    <updated>2026-10-23T05:12:19.164Z</updated>
+    <published>2026-10-23T05:12:19.000Z</published>
+    <updated>2026-10-23T05:12:19.000Z</updated>
     <summary type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。例如：從crossing symmetry(其實應該是對於identical scalar scattering來說permutation symmetry)推導出的null constraints可以得到的一個結論是如果UV spectrum允許spin-2的heavy state，那也必須包含其他high-spin states。而bootstrap program下一步就是尋找物理意義，或是從完整自洽的角度去<strong>重新發現</strong>最佳化的模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>]]></summary>
-    <content type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。例如：從crossing symmetry(其實應該是對於identical scalar scattering來說permutation symmetry)推導出的null constraints可以得到的一個結論是如果UV spectrum允許spin-2的heavy state，那也必須包含其他high-spin states。而bootstrap program下一步就是尋找物理意義，或是從完整自洽的角度去<strong>重新發現</strong>最佳化的模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>
-]]></content>
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。例如：從crossing symmetry(其實應該是對於identical scalar scattering來說permutation symmetry)推導出的null constraints可以得到的一個結論是如果UV spectrum允許spin-2的heavy state，那也必須包含其他high-spin states。而bootstrap program下一步就是尋找物理意義，或是從完整自洽的角度去<strong>重新發現</strong>最佳化的模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>
+<h1 id="Bootstrap-Sampling"><a href="#Bootstrap-Sampling" class="headerlink" title="Bootstrap Sampling"></a>Bootstrap Sampling</h1>]]></content>
     <category term="research"/>
     <category term="notes"/>
   </entry>
@@ -40,8 +119,8 @@
     <title>AdS/CFT Lecture Notes from Bottom Up</title>
     <link href="https://tingkaihsu.github.io/2026/10/08/reading_AdS_CFT/"/>
     <id>https://tingkaihsu.github.io/2026/10/08/reading_AdS_CFT/</id>
-    <published>2026-10-08T13:24:07.362Z</published>
-    <updated>2026-10-08T13:24:07.362Z</updated>
+    <published>2026-10-08T13:24:07.000Z</published>
+    <updated>2026-10-08T13:24:07.000Z</updated>
     <summary type="html"><![CDATA[<p>These are some thoughts from reading the lecture notes written by J. Kaplan. I currently don’t have a good understanding of quantum gravity, and what I know comes mainly from fragmentary information: <a href="https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals">the effective field theory of quantum gravity</a>. The field-theory approach had originally been neglected because of the renormalization problem, but in recent years it has received renewed attention in this field because of its usefulness in approximately describing gravitational waves. I personally think this direction leans more toward phenomenology. I also believe that the most central understanding must come from a quantum description of black holes.</p>]]></summary>
     <content type="html"><![CDATA[<p>These are some thoughts from reading the lecture notes written by J. Kaplan. I currently don’t have a good understanding of quantum gravity, and what I know comes mainly from fragmentary information: <a href="https://tingkaihsu.github.io/2025/07/12/eft_binary_inspirals">the effective field theory of quantum gravity</a>. The field-theory approach had originally been neglected because of the renormalization problem, but in recent years it has received renewed attention in this field because of its usefulness in approximately describing gravitational waves. I personally think this direction leans more toward phenomenology. I also believe that the most central understanding must come from a quantum description of black holes.</p>
 <h1 id="AdS-Spacetime-Symmetries"><a href="#AdS-Spacetime-Symmetries" class="headerlink" title="AdS Spacetime Symmetries"></a>AdS Spacetime Symmetries</h1>]]></content>
@@ -53,8 +132,8 @@
     <title>Research Directions (Very Rough)</title>
     <link href="https://tingkaihsu.github.io/2026/10/08/research_direction/"/>
     <id>https://tingkaihsu.github.io/2026/10/08/research_direction/</id>
-    <published>2026-10-08T13:23:51.859Z</published>
-    <updated>2026-10-08T13:23:51.859Z</updated>
+    <published>2026-10-08T13:23:51.000Z</published>
+    <updated>2026-10-08T13:23:51.000Z</updated>
     <summary type="html"><![CDATA[<p>在這篇文章中我列出一些我感興趣的研究主題，當然部分是我根本還沒深入了解的，所以會常常更新。</p>]]></summary>
     <content type="html"><![CDATA[<p>在這篇文章中我列出一些我感興趣的研究主題，當然部分是我根本還沒深入了解的，所以會常常更新。</p>
 <ol>
@@ -141,6 +220,21 @@
     <category term="integrable-systems"/>
   </entry>
   <entry>
+    <title>Anisotropic Transmission of quantum information through quantum fields</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <updated>2025-12-09T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
+<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
+    <category term="projects"/>
+    <category term="quantum fundamental"/>
+    <category term="quantum information"/>
+    <category term="course"/>
+  </entry>
+  <entry>
     <title>The Database of Maxwellian Averaged Neutron Capture Cross Section (MACS) of the CERN Neutron Time-of-flight Facility (n_TOF) for Nuclear Astrophysics</title>
     <link href="https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/"/>
     <id>https://tingkaihsu.github.io/2025/12/10/CERN_nTOF_astrophysics_database/</id>
@@ -155,21 +249,6 @@
     <category term="astrophysics"/>
     <category term="database"/>
     <category term="internship"/>
-  </entry>
-  <entry>
-    <title>Anisotropic Transmission of quantum information through quantum fields</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
-<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
-    <category term="projects"/>
-    <category term="quantum fundamental"/>
-    <category term="quantum information"/>
-    <category term="course"/>
   </entry>
   <entry>
     <title>An Introduction to Black Hole Thermodynamics</title>
