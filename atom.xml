@@ -5,7 +5,7 @@
   <link href="https://tingkaihsu.github.io/atom.xml" rel="self"/>
   <link href="https://tingkaihsu.github.io/"/>
   <id>https://tingkaihsu.github.io/</id>
-  <updated>2026-11-09T03:32:15.045Z</updated>
+  <updated>2026-11-09T03:56:16.000Z</updated>
   <author>
     <name>Ting-Kai Hsu</name>
   </author>
@@ -13,8 +13,8 @@
     <title>退伍後的第一個禮拜紀錄</title>
     <link href="https://tingkaihsu.github.io/2026/11/09/Nov_8/"/>
     <id>https://tingkaihsu.github.io/2026/11/09/Nov_8/</id>
-    <published>2026-11-09T03:32:15.045Z</published>
-    <updated>2026-11-09T03:32:15.045Z</updated>
+    <published>2026-11-09T03:56:16.000Z</published>
+    <updated>2026-11-09T03:56:16.000Z</updated>
     <summary type="html"><![CDATA[<p>這是第一周退伍後的紀錄，感覺我把日子過得有點鬆散。特別是現在還沒有研究生的自覺。</p>]]></summary>
     <content type="html"><![CDATA[<p>這是第一周退伍後的紀錄，感覺我把日子過得有點鬆散。特別是現在還沒有研究生的自覺。</p>
 <p>先紀錄一下日常做了什麼吧。最近會去補習班輔導一些學生，大部分是高中生。因為他們要準備學測的關係，所以就讓他們不斷的練習題目，然後我幫助他們釐清正確的答案。對我來說，現在高中生的英文算是簡單的，但是自然(特別是有些簡單的題目只是在考定義的部分)因為我太久沒有碰生物、化學、跟地科了，所以講解起來比較吃力。有空我也開始練習開車，目前發現自己開車也沒有問題呢。至於煮飯，我要多加練習，不能只靠心血來潮才去煮。目前會做的菜色也很少，甚至沒有炒過菜，只有煎過牛排跟蛋。</p>
@@ -24,8 +24,8 @@
 <p>我覺得我可以先列出自己有興趣的課程 然後每周的時候追蹤一下進度。</p>
 <ol>
 <li><a href="https://pirsa.org/25110030">PSI lecture of QFT II</a></li>
-<li><a href="">PSI lecture of AdS&#x2F;CFT</a></li>
-<li></li>
+<li><a href="https://pirsa.org/25030002">PSI lecture of AdS&#x2F;CFT</a></li>
+<li>Gauge Theory by David Tong</li>
 </ol>
 ]]></content>
     <category term="life"/>
@@ -109,9 +109,115 @@ $$where $s^{i}_{\Box_2}$ are the solutions of $S_{\Box_2} = 0$. More precisely, 
     <id>https://tingkaihsu.github.io/2026/10/23/mixed_state_bootstrap/</id>
     <published>2026-10-23T05:12:19.000Z</published>
     <updated>2026-10-23T05:12:19.000Z</updated>
-    <summary type="html"><![CDATA[<p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。例如：從crossing symmetry(其實應該是對於identical scalar scattering來說permutation symmetry)推導出的null constraints可以得到的一個結論是如果UV spectrum允許spin-2的heavy state，那也必須包含其他high-spin states。而bootstrap program下一步就是尋找物理意義，或是從完整自洽的角度去<strong>重新發現</strong>最佳化的模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>]]></summary>
-    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>這算是我做的第二個研究，我覺得吸引我的點是因為formalism很簡潔但是得到的結果有很多可以探索的空間。原因在於用上的物理假設都很基本，並且結果可以提供現行理論的驗證，甚至可以去探討極限發生的物理現象。對我來說，有點像是熱力學中的相圖，可以去發現一張圖上很多有趣的地方。我同意黃宇廷教授的看法，一開始我們只會想要探討<em>UV theory中的物理假設會對EFT帶有什麼樣的限制</em>，這比較像是一種探索，也跟我這個研究一開始想要做的一樣，去探討<strong>加入的新條件會對舊的結果有什麼影響</strong>。例如：從crossing symmetry(其實應該是對於identical scalar scattering來說permutation symmetry)推導出的null constraints可以得到的一個結論是如果UV spectrum允許spin-2的heavy state，那也必須包含其他high-spin states。而bootstrap program下一步就是尋找物理意義，或是從完整自洽的角度去<strong>重新發現</strong>最佳化的模型：例如尋找linear trajectory或是其他的physical observables的bound。</p>
-<h1 id="Bootstrap-Sampling"><a href="#Bootstrap-Sampling" class="headerlink" title="Bootstrap Sampling"></a>Bootstrap Sampling</h1>]]></content>
+    <summary type="html"><![CDATA[<p>This is the second research project I have worked on. What draws me to it is that the formalism is remarkably simple, yet the results leave a great deal of room for exploration. The physical assumptions it relies on are very basic, and the results can reproduce and check the consistency of existing theories, and also let us probe the physics at the boundary of the allowed space, where the bounds are saturated. To me, it resembles a phase diagram in thermodynamics: a single plot in which one can keep finding interesting regions to examine.</p>]]></summary>
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>This is the second research project I have worked on. What draws me to it is that the formalism is remarkably simple, yet the results leave a great deal of room for exploration. The physical assumptions it relies on are very basic, and the results can reproduce and check the consistency of existing theories, and also let us probe the physics at the boundary of the allowed space, where the bounds are saturated. To me, it resembles a phase diagram in thermodynamics: a single plot in which one can keep finding interesting regions to examine.</p>
+<p>I agree with Prof. Yu-tin Huang, my undergraduate mentor and the advisor of this project, that at the beginning we simply want to explore what constraints the physical assumptions of the UV theory impose on the EFT. This is exploratory in nature, and it matches what I originally wanted to do in this project: to study how adding new conditions affects previously established results. For example, one conclusion from the null constraints derived from crossing symmetry (more precisely, permutation symmetry for identical scalar scattering) is that if the UV spectrum allows a heavy spin-2 state, it must also contain states of higher spin (spin &gt; 2). The next step for the bootstrap program is to look for physical interpretation, or to rediscover, from the standpoint of full self-consistency, the models that saturate the bounds (such as string amplitudes), for example by searching for linear Regge trajectories or for bounds on other physical observables.</p>
+<h1 id="Bootstrap-Equation"><a href="#Bootstrap-Equation" class="headerlink" title="Bootstrap Equation"></a>Bootstrap Equation</h1><p>TODO</p>
+<h1 id="Bootstrap-Sampling"><a href="#Bootstrap-Sampling" class="headerlink" title="Bootstrap Sampling"></a>Bootstrap Sampling</h1><p>The mixed-channel null constraints contain kernels with non-polynomial dependence on the spectral mass $M^2$. In our numerical bootstrap, we impose positivity of the functional on a discrete set of spins and masses. We use a base mass grid for each sampled spin, add mass points to resolve large-spin oscillations, and impose separate constraints in the fixed-impact-parameter limit.</p>
+<h2 id="Finite-Grid"><a href="#Finite-Grid" class="headerlink" title="Finite Grid"></a>Finite Grid</h2><p>The mass variable is $M^2 = \frac{ m_{\rm{gap}}^2 }{1-x}$ for $x \in [0, 1]$. We use Chebyshev nodes$$
+\phi = \frac\pi2+\frac\pi2 \cos(\frac{2k+1}{2}\frac\pi{n_{\rm pts}})\,,
+$$where $n_{\rm pts} = 150$ is the number of the sampling points in this finite grid and $k = 0, 1, \cdots, n_{\rm pts}-1$.<br>The angle $\phi$ is related to $x$ by$$
+x = \sin^2(\phi/2)\,,
+$$such that for each sector, we use its continuum threshold $m_{\rm gap}^2$ and map $0\leq x&lt;1$ to $M^2=m_{\rm gap}^2/(1-x)$. The threshold corresponds to $\phi=0$, and $M^2\to\infty$ as $\phi\to\pi$. The 150 Chebyshev nodes lie strictly inside $0&lt;\phi&lt;\pi$ and cluster toward both endpoints in the compactified coordinate.</p>
+<p>We sample every allowed spin through $J=200$. Above 200, we use the sparse sets $J = 400, 1000, 10000, 50000$, retaining both parities in the charged sector. </p>
+<h2 id="Supplementary-Grid"><a href="#Supplementary-Grid" class="headerlink" title="Supplementary Grid"></a>Supplementary Grid</h2><p>At large spin, the angular factors in the mixed-channel kernels can oscillate rapidly as the spectral mass varies. Let the subscripts N and C denote the neutral and charged sectors, respectively. The angles entering their Gegenbauer polynomials are</p>
+<p>$$
+\theta_N(M)
+= \arcsin\!\left(\frac{2m_A}{M}\right),
+\qquad
+\theta_C(M)
+= \arccos\!\left(
+1-\frac{2m_A^2(M^2+m_A^2)}{(M^2-m_A^2)^2}
+\right).
+$$</p>
+<p>At large degree and fixed angle away from the endpoints, the leading Gegenbauer phase has slope $J+\frac{D-3}{2}$</p>
+<p>with respect to the angle. A fixed angular interval therefore contains more oscillations as the spin increases. This motivates choosing supplementary points at equal increments of a phase coordinate. In the present calculation we work in ten spacetime dimensions and define</p>
+<p>$$
+\psi_{s,J}(M)
+= \left(J+\frac{7}{2}\right)\theta_s(M),
+\qquad s\in\{N,C\}.
+$$</p>
+<p>For each sampled spin with $J\geq 40,$ we construct a separate supplementary mass grid in each sector. Denote the continuum threshold mass in sector $s$ by $M_{\mathrm{gap},s}$. We use the phase step and impact-parameter cutoff $\Delta\psi=\frac{\pi}{4},\qquad b_{\max}=100$ in the units of the calculation. The number of supplementary points is</p>
+<p>$$
+K_{s,J}
+=
+\left\lfloor
+\frac{
+\min\!\left\{
+  \left(J+\frac{7}{2}\right)\theta_s(M_{\mathrm{gap},s}),
+  \ m_A b_{\max}
+\right\}}
+{\Delta\psi}
+\right\rfloor .
+$$</p>
+<p>The first entry in the minimum is the phase at the sector threshold. It keeps the supplementary masses within the continuum. The second entry sets a dimensionless phase cutoff, motivated by the fixed-impact-parameter limit below. For each integer index we choose</p>
+<p>$$
+\theta_{s,j}
+=
+\frac{j\,\Delta\psi}{J+7/2},
+\qquad
+j=1,\ldots,K_{s,J}.
+$$</p>
+<p>We then invert the sector angle to obtain the squared mass. Explicitly, with $c_j=1-\cos\theta_{C,j}$, the two inverse maps are</p>
+<p>$$
+M_{N,j}^2
+=\frac{4m_A^2}{\sin^2\theta_{N,j}},
+\qquad
+M_{C,j}^2
+=m_A^2\frac{1+c_j+\sqrt{1+4c_j}}{c_j}.
+$$</p>
+<p>These masses are added to the base grid for that sector and spin. The index starts at one because zero angle corresponds to infinite mass.</p>
+<h2 id="Impact-Parameter-Grid"><a href="#Impact-Parameter-Grid" class="headerlink" title="Impact Parameter Grid"></a>Impact Parameter Grid</h2><p>The supplementary grid evaluates kernels at finite mass and spin. We also impose positivity on the limiting kernels obtained by taking the mass and spin to infinity together at fixed impact parameter, $b=\frac{2J}{M}.$<br>Both sector angles have the same leading behavior at large mass,</p>
+<p>$$
+\theta_s(M)=\frac{2m_A}{M}
++O\!\left(\frac{m_A^3}{M^3}\right),
+\qquad s\in\{N,C\}.
+$$</p>
+<p>It follows that the phase coordinate used above has a finite limit,</p>
+<p>$$
+\left(J+\frac{7}{2}\right)\theta_s(M)
+\longrightarrow m_A b.
+$$</p>
+<p>To take the limit of the angular factor, we use the normalized Gegenbauer polynomial</p>
+<p>$$
+\mathcal P_J(u)
+=\frac{C_J^{(\lambda)}(u)}{C_J^{(\lambda)}(1)},
+\qquad
+\lambda=\frac{D-3}{2}.
+$$</p>
+<p>The degree tends to infinity while the argument approaches one. Writing $z=m_A b,\qquad\nu=\lambda-\frac12=\frac{D-4}{2},$</p>
+<p>the <a href="https://dlmf.nist.gov/18.11#E5">Mehler–Heine formula</a> gives</p>
+<p>$$
+\lim_{\substack{J,M\to\infty\\2J/M=b}}
+\mathcal P_J\!\left(\cos\theta_s(M)\right)
+=
+\Gamma(\nu+1)\left(\frac{2}{z}\right)^\nu J_\nu(z).
+$$</p>
+<p>In $D = 10$ this reduces to $\frac{48}{z^3}J_3(z).$</p>
+<p>The value at zero impact parameter is defined by continuity. Since $J_3(z)\sim z^3/48$ as $z\to0$, the limiting angular factor equals one there, in agreement with the normalization $\mathcal P_J(1)=1$.</p>
+<p>We evaluate the limiting positivity blocks at the impact parameters</p>
+<p>$$
+\mathcal B
+=
+\left\{
+\frac{\ell\,\Delta\psi}{m_A}
+\ \middle|\
+\ell=0,1,\ldots,
+\left\lfloor\frac{m_A b_{\max}}{\Delta\psi}\right\rfloor
+\right\}
+\cup\{b_{\max}\}.
+$$</p>
+<p>The spacing corresponds to one phase step in the variable $m_A b$. We include both zero and the upper endpoint, even when the last interval is shorter than a full step.</p>
+<p>For the mixed null constraints $\chi_{kq}$ used here, the oscillatory term survives in the fixed-impact-parameter limit only for $q=0$. Its angular factor is</p>
+<p>$$
+{}_0F_1\!\left(;4+k;-\frac{z^2}{4}\right)
+=
+\Gamma(4+k)
+\left(\frac{2}{z}\right)^{3+k}
+J_{3+k}(z).
+$$</p>
+<p>Thus the oscillatory term of the $q=0$ row involves a Bessel function of order $3+k$. Its full coefficient also includes the prefactor specific to that row.</p>
+]]></content>
     <category term="research"/>
     <category term="notes"/>
   </entry>
@@ -169,6 +275,18 @@ $$where $s^{i}_{\Box_2}$ are the solutions of $S_{\Box_2} = 0$. More precisely, 
     <category term="research"/>
   </entry>
   <entry>
+    <title>Gauge Theory by David Tong</title>
+    <link href="https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/"/>
+    <id>https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/</id>
+    <published>2026-10-03T16:00:00.000Z</published>
+    <updated>2026-10-03T16:00:00.000Z</updated>
+    <summary type="html"><![CDATA[<p>會讀gauge theory主要是它在物理現象學、高能理論物理、凝態理論物理</p>]]></summary>
+    <content type="html"><![CDATA[<p>會讀gauge theory主要是它在物理現象學、高能理論物理、凝態理論物理</p>
+]]></content>
+    <category term="research"/>
+    <category term="reading"/>
+  </entry>
+  <entry>
     <title>Comments on Paper Writing ahd Research</title>
     <link href="https://tingkaihsu.github.io/2026/10/04/paper_writing/"/>
     <id>https://tingkaihsu.github.io/2026/10/04/paper_writing/</id>
@@ -192,18 +310,6 @@ $$where $s^{i}_{\Box_2}$ are the solutions of $S_{\Box_2} = 0$. More precisely, 
     <category term="writing"/>
   </entry>
   <entry>
-    <title>Gauge Theory by David Tong</title>
-    <link href="https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/"/>
-    <id>https://tingkaihsu.github.io/2026/10/04/reading_gauge_theory/</id>
-    <published>2026-10-03T16:00:00.000Z</published>
-    <updated>2026-10-03T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>會讀gauge theory主要是它在物理現象學、高能理論物理、凝態理論物理</p>]]></summary>
-    <content type="html"><![CDATA[<p>會讀gauge theory主要是它在物理現象學、高能理論物理、凝態理論物理</p>
-]]></content>
-    <category term="research"/>
-    <category term="reading"/>
-  </entry>
-  <entry>
     <title>Brief Introduction to Integrability and Thermodynamic Bethe Ansatz</title>
     <link href="https://tingkaihsu.github.io/2025/12/12/integrable_systems/"/>
     <id>https://tingkaihsu.github.io/2025/12/12/integrable_systems/</id>
@@ -220,18 +326,18 @@ $$where $s^{i}_{\Box_2}$ are the solutions of $S_{\Box_2} = 0$. More precisely, 
     <category term="integrable-systems"/>
   </entry>
   <entry>
-    <title>Anisotropic Transmission of quantum information through quantum fields</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
+    <title>An Introduction to Black Hole Thermodynamics</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
     <published>2025-12-09T16:00:00.000Z</published>
     <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
-    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
-<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
+    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
+    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
+<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
     <category term="projects"/>
-    <category term="quantum fundamental"/>
-    <category term="quantum information"/>
+    <category term="black holes"/>
+    <category term="thermodynamics"/>
     <category term="course"/>
   </entry>
   <entry>
@@ -251,19 +357,19 @@ $$where $s^{i}_{\Box_2}$ are the solutions of $S_{\Box_2} = 0$. More precisely, 
     <category term="internship"/>
   </entry>
   <entry>
-    <title>An Introduction to Black Hole Thermodynamics</title>
-    <link href="https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/"/>
-    <id>https://tingkaihsu.github.io/2025/12/10/black_hole_thermodynamics/</id>
+    <title>Anisotropic Transmission of quantum information through quantum fields</title>
+    <link href="https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/"/>
+    <id>https://tingkaihsu.github.io/2025/12/10/Transmission_of_quantum_information_through_quantum_fields/</id>
     <published>2025-12-09T16:00:00.000Z</published>
     <updated>2025-12-09T16:00:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>]]></summary>
-    <content type="html"><![CDATA[<p>My course report in <em>Advanced Topics in Gravity</em> is a brief introduction to black hole thermodynamics. The attached file is the manuscript of my <strong>blackboard</strong> presentation. First, I introduced the spacetime temperature as an imaginary time period, which is identified by analytic continuation from Lorentzian spacetime to Euclidean spacetime. Then I demonstrated two methods for Schwarzschild black hole’ entropy: the Gibbons–Hawking–York (GHY) boundary term and the geometric approach (conical singularity).</p>
-<p><a href="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf">Download PDF</a></p>
-<iframe src="https://tingkaihsu.github.io/files/black_hole_thermodynamics.pdf" width="100%" height="600px"></iframe>]]></content>
+    <summary type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>]]></summary>
+    <content type="html"><![CDATA[<p>My <em>Quantum Information and Computation (QIC)</em> course report is a brief introduction to anisotropic transmission of quantum information through quantum fields. My classmates and I studied quantum information transmission, combining the non-perturbative quantum field theory with the Unruh-De Witt model. We tried some approaches to the anisotropic transmission and showed the results with some numerical plots.</p>
+<p><a href="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf">Download PDF</a></p>
+<iframe src="https://tingkaihsu.github.io/files/QIC_Final_Project:Anisotropic_Transmission_of_quantum_information_through_quantum_fields.pdf" width="100%" height="600px"></iframe>]]></content>
     <category term="projects"/>
     <category term="course"/>
-    <category term="black holes"/>
-    <category term="thermodynamics"/>
+    <category term="quantum fundamental"/>
+    <category term="quantum information"/>
   </entry>
   <entry>
     <title>RPC Detector and Analysis of Cosmic Ray</title>
